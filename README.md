@@ -2,7 +2,7 @@
 
 Este proyecto implementa una solución completa que combina **Visión por Computadora (Deep Learning)** con **Calibración Estadística (Machine Learning)** para el registro y reconocimiento de personas.
 
-## 🏛️ Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 ```
 Sistema de analisis de probabilidaes/
@@ -53,6 +53,6 @@ Sistema de analisis de probabilidaes/
    npm run build
    ```
 
-## 🧠 Modo Demo Integrado
+##  Modo Demo Integrado
 
 El frontend incluye un **Modo Demo (Mock API)** que permite probar y exponer la aplicación inmediatamente con persistencia en `localStorage`, incluso sin encender el servidor backend de Python. Puedes alternar entre el modo Demo y el modo API en la barra superior (Navbar).
