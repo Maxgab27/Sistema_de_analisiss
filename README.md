@@ -31,7 +31,7 @@ Sistema de analisis de probabilidaes/
 └── README.md
 ```
 
-## 🚀 Inicio Rápido (Frontend)
+##  Inicio Rápido (Frontend)
 
 1. Ingresar al directorio `frontend`:
    ```bash
